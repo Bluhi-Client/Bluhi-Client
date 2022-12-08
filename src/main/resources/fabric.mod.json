@@ -20,7 +20,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.bluhi.Bluhi"
+      "com.bluhi.Bluhi"
     ]
   },
   "mixins": [
